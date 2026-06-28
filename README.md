@@ -1,6 +1,8 @@
 ## Hi there 👋 I'm Nduh Bgenk
 
+
 🚀 Full-stack developer passionate about building digital solutions.
+
 
 ### 👨‍💻 About Me
 - 🔭 Currently working on **Customer-Centric** — Ekosistem Digital untuk Percepatan Bisnis
@@ -8,19 +10,24 @@
 - 👯 I’m looking to collaborate on **PHP, JavaScript, NodeJS projects**
 - 💬 Ask me about **Laravel, CodeIgniter, JavaScript, or Rust**
 
+
 ### 🛠 Tech Stack
 **Languages:** PHP, JavaScript, TypeScript, Go, Rust, SQL  
 **Frontend:** NuxtJS, ReactJS, TailwindCSS, Vue.js  
 **Backend:** Laravel, CodeIgniter, NodeJS, Express  
 **Tools:** Docker, Git, Cloudflare Workers, Linux  
 
+
 ### 📊 GitHub Stats
-![mteguhfh's GitHub stats](https://github-readme-stats.vercel.app/api?username=mteguhfh&show_icons=true&theme=radical)
+![mteguhfh's GitHub stats](https://github-readme-stats.vercel.app/api?username=mteguhfh&show_icons=true&theme=gruvbox)
+
 
 ### 📫 Let's Connect
 - 🌐 [Customer-Centric](https://github.com/mteguhfh/Customer-Centric) — My main project
 - ✉️ nugas@email.com
 
+
 ---
+
 
 ⭐ *From Indonesia, crafting code & building the future*
