@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hi there 👋 I'm Nduh Bgenk
 
-<!--
-**mteguhfh/mteguhfh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full-stack developer passionate about building digital solutions.
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
+- 🔭 Currently working on **Customer-Centric** — Ekosistem Digital untuk Percepatan Bisnis
+- 🌱 I’m currently learning **NuxtJS, Laravel, ReactJS, Go, Rust, TypeScript**
+- 👯 I’m looking to collaborate on **PHP, JavaScript, NodeJS projects**
+- 💬 Ask me about **Laravel, CodeIgniter, JavaScript, or Rust**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+**Languages:** PHP, JavaScript, TypeScript, Go, Rust, SQL  
+**Frontend:** NuxtJS, ReactJS, TailwindCSS, Vue.js  
+**Backend:** Laravel, CodeIgniter, NodeJS, Express  
+**Tools:** Docker, Git, Cloudflare Workers, Linux  
+
+### 📊 GitHub Stats
+![mteguhfh's GitHub stats](https://github-readme-stats.vercel.app/api?username=mteguhfh&show_icons=true&theme=radical)
+
+### 📫 Let's Connect
+- 🌐 [Customer-Centric](https://github.com/mteguhfh/Customer-Centric) — My main project
+- ✉️ nugas@email.com
+
+---
+
+⭐ *From Indonesia, crafting code & building the future*
