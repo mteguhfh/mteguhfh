@@ -1,7 +1,11 @@
 ## Hi there 👋 I'm Nduh Bgenk
 
 
+
+
 🚀 Full-stack developer passionate about building digital solutions.
+
+
 
 
 ### 👨‍💻 About Me
@@ -11,6 +15,8 @@
 - 💬 Ask me about **Laravel, CodeIgniter, JavaScript, or Rust**
 
 
+
+
 ### 🛠 Tech Stack
 **Languages:** PHP, JavaScript, TypeScript, Go, Rust, SQL  
 **Frontend:** NuxtJS, ReactJS, TailwindCSS, Vue.js  
@@ -18,8 +24,12 @@
 **Tools:** Docker, Git, Cloudflare Workers, Linux  
 
 
+
+
 ### 📊 GitHub Stats
-![mteguhfh's GitHub stats](https://github-readme-stats.vercel.app/api?username=mteguhfh&show_icons=true&theme=gruvbox)
+![mteguhfh's GitHub stats](https://github-readme-stats.vercel.app/api?username=mteguhfh&show_icons=true&theme=gruvbox&hide=rank)
+
+
 
 
 ### 📫 Let's Connect
@@ -27,7 +37,11 @@
 - ✉️ nugas@email.com
 
 
+
+
 ---
+
+
 
 
 ⭐ *From Indonesia, crafting code & building the future*
