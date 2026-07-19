@@ -9,7 +9,7 @@
 
 
 ### 👨‍💻 About Me
-- 🔭 Currently working on **Customer-Centric** — Ekosistem Digital untuk Percepatan Bisnis
+- 🔭 Currently working on **My Dreams** — Ekosistem Digital untuk Percepatan Bisnis
 - 🌱 I’m currently learning **NuxtJS, Laravel, ReactJS, Go, Rust, TypeScript**
 - 👯 I’m looking to collaborate on **PHP, JavaScript, NodeJS projects**
 - 💬 Ask me about **Laravel, CodeIgniter, JavaScript, or Rust**
@@ -33,7 +33,7 @@
 
 
 ### 📫 Let's Connect
-- 🌐 [Customer-Centric](https://github.com/mteguhfh/Customer-Centric) — My main project
+- 🌐 [Code Craft](https://www.codecraft.co.id) — My main project
 - ✉️ nugas@email.com
 
 
