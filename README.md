@@ -33,7 +33,7 @@
 
 
 ### 📫 Let's Connect
-- 🌐 [Code Craft](https://www.codecraft.co.id) — My main project
+- 🌐 [Code Craft](https://www.codecraft.co.id)
 - ✉️ nugas@email.com
 
 
